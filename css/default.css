@@ -6,7 +6,7 @@ body{
   width: 798px;
   margin: 40px auto;
   padding: 40px 80px;
-  border: green 1px solid;
+  border: lightblue 1px solid;
   background-color: white;
 }
 
@@ -48,7 +48,7 @@ dt{
 }
 
 .btn:active{
-  color: blue;
+  color: lightblue;
 }
 
 .btn-submit{
@@ -85,20 +85,20 @@ caption{
 }
 
 #price{
-  background-color: green;
+  background-color: lightgreen;
 }
 
 thead th, tfoot th{
-  background-color: brown;
+  background-color: lightbrown;
 }
 
 thead td{
-  color: pink;
-  background-color: blue;
+  color: lightgreen;
+  background-color: lightblue;
   text-align: center;
 }
 
 tfoot td{
   font-weight: bold;
-  background-color: green;
+  background-color: lightgreen;
 }
