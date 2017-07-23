@@ -85,7 +85,7 @@ caption{
 }
 
 #price{
-  background-color: lightgreen;
+  background-color: green;
 }
 
 thead th, tfoot th{
@@ -93,7 +93,7 @@ thead th, tfoot th{
 }
 
 thead td{
-  color: lightgreen;
+  color: green;
   background-color: lightblue;
   text-align: center;
 }
